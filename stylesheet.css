@@ -29,3 +29,18 @@ div.holder
     width: 100%;
     background-color: darkolivegreen
 }
+
+div.table
+{
+    width: 500px;
+    margin: auto;
+    overflow: auto;  
+    align-content: center;
+}
+
+td
+{
+    padding: 5px;
+    border-width: 2px;
+    border-color: black; 
+}
