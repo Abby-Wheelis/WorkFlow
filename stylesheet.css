@@ -1,0 +1,31 @@
+h1#title
+{
+    color: darkred;
+}
+
+div.poem
+{
+    width: 250px;
+    text-align: left;
+    background-color: B1B695;
+    margin: auto;
+    padding: 15px;
+}
+
+div div
+{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: B1B695;
+}
+
+div#final
+{
+    font-style: italic;
+}
+
+div.holder
+{
+    width: 100%;
+    background-color: darkolivegreen
+}
